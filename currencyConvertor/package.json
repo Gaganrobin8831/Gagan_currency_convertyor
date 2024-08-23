@@ -1,7 +1,7 @@
 {
-  "name": "curreny_convertor",
+  "name": "Gagan_curreny_convertor",
   "version": "1.0.0",
-  "description": "Gagan currency Convertor",
+  "description": "a currency Convertor",
   "main": "index.js",
   "type": "module",
   "scripts": {
